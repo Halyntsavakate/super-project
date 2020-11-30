@@ -1,0 +1,14 @@
+td {
+  text-align: center;
+}
+tr {
+  font-size: 18px;
+}
+table {
+  border-radius: 5px;
+  border: 1px solid darkgrey;
+}
+tr,
+td {
+  border: 1px solid darkgrey;
+}
