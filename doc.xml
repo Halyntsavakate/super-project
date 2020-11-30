@@ -16,15 +16,15 @@
 <student>Sidorov</student>
 <grade>5</grade>
 </gradeRecord>
-    <gradeRecord id="3">
+    <gradeRecord id="4">
         <student>Sidorov</student>
         <grade>5</grade>
     </gradeRecord>
-    <gradeRecord id="3">
+    <gradeRecord id="5">
         <student>Sidorov</student>
         <grade>5</grade>
     </gradeRecord>
-    <gradeRecord id="3">
+    <gradeRecord id="6">
         <student>Sidorov</student>
         <grade>5</grade>
     </gradeRecord>
