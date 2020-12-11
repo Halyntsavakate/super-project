@@ -25,8 +25,17 @@
         <grade>5</grade>
     </gradeRecord>
     <gradeRecord id="6">
-        <student>Sidorov</student>
+        <student>Dorov</student>
         <grade>5</grade>
     </gradeRecord>
+    <gradeRecord id="7">
+        <student>Srov</student>
+        <grade>5</grade>
+    </gradeRecord>
+    <gradeRecord id="8">
+        <student>Sov</student>
+        <grade>4</grade>
+    </gradeRecord>
+
 </gradeList>
 </gradeReport>
